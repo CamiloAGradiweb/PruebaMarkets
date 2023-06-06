@@ -78,7 +78,7 @@
           "switcher_position": "custom",
           "show_flags": true,
           "language_label": "language-code",
-          "language_country_mapping": "en:US",
+          "language_country_mapping": "en:US, en:GB",
           "countries_filter": "",
           "custom_css": "",
           "header_switcher_reference_element": "",
