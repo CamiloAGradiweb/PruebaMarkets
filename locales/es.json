@@ -51,11 +51,12 @@
   },
   "newsletter": {
     "label": "Correo electrónico",
-    "success": "Gracias por suscribirte",
-    "button_label": "Suscribirse",
-    "title": "Les nouvelles culottées",
-    "description": "Inscrivez-vous a notre newsletter et ne manquez aucune de nos aventures !",
-    "btn-text": "submit"
+    "success": "Gracias por su registro",
+    "button_label": "Inscribirse",
+    "title": "los nuevos pantalones",
+    "description": "¡Suscríbete a nuestra newsletter y no te pierdas ninguna de nuestras aventuras!",
+    "btn-text": "enviar",
+    "registered": "Usuario registrado"
   },
   "accessibility": {
     "skip_to_text": "Ir directamente al contenido",
