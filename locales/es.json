@@ -103,10 +103,10 @@
   },
   "products": {
     "product": {
-      "add_to_cart": "Agregar al carrito",
+      "add_to_cart": "Añadir a la cesta",
       "description": "Descripción",
-      "on_sale": "En oferta",
-      "product_variants": "Variantes de producto",
+      "on_sale": "Venta",
+      "product_variants": "Variantes del producto",
       "quantity": {
         "label": "Cantidad",
         "input_label": "Cantidad para {{ product }}",
