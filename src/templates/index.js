@@ -7,6 +7,7 @@ import { openAccordion } from "../utils/accordion";
 import { openDropDown } from "../components/header";
 import { toggleDataActive } from "../utils/toggle-dataset";
 import { isRegisteredUser } from "../components/news-letters";
+import "../components/markets"
 
 isRegisteredUser();
 variantOnChange(".variants");
